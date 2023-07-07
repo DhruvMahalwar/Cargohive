@@ -20,3 +20,8 @@ Helps a particular company to predict it's future sales projection and preventin
 Blockchain can be used to track the movement of goods, traceability of products, increased transparency and enhanced security.<br><br>
 **3) <ins>A MarketPlace</ins>:**
 We also connect ventures with the wholesale sellers and create a marketplace to make the supply chain process more smooth and accessible.<br><br>
+
+
+Command to run:-
+npm install --legacy-peer-deps
+then go to package.json and debug.
