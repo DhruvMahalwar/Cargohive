@@ -23,5 +23,6 @@ We also connect ventures with the wholesale sellers and create a marketplace to 
 
 
 Command to run:-
+Firtly download node module
 npm install --legacy-peer-deps
 then go to package.json and debug.
