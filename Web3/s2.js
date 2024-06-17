@@ -491,6 +491,7 @@ async function createProduct() {
  ]
  const contract = new web3.eth.Contract(
     abi,
-    "0x0E49A85E0e545811E80f6B1C9212906C2876CFC2"
+     "0xc195cFf89749596E5bc58eAeE744521b874fBfE8"
  );
+//"0x0E49A85E0e545811E80f6B1C9212906C2876CFC2"
  
