@@ -49,10 +49,9 @@ async function addHistory() {
 
         const productId = document.getElementById("productId").value;
         const history = document.getElementById("history").value;
-        const myString = document.getElementById("hash").value;
 
-
-        const tx = await contract.methods.addHistory(productId, "The History was added on " + formattedDateTime + " " + "and " + history, myString).send({ from: accounts[0] });
+        alert('Might take few seconds to process your request. You will be notified once the history is added to bloackchain.')
+        const tx = await contract.methods.addHistory(productId, "The History was added on " + formattedDateTime + " " + "and " + history).send({ from: accounts[0] });
         contract.methods.getProduct(productId).call({ from: accounts[0] }).then(async result => {
             console.log(result.sealHash);
         })
