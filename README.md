@@ -15,14 +15,16 @@ In addition, **lack of transparency** in the supply chain can make it difficult 
 About **44%** of the Startups failed due to inefficient Supply Chain during the COVID period.
 
 
+
 <b><h3>Solution</h3></b>
-We have designed an approach to help small startup ventures in **automating** their **Supply Chain** in order to maximise their **profit** by following funtionalities :<br><br>
-**1) <ins>Demand Projection</ins>:**
-Helps a particular company to predict it's future sales projection and preventing the void in the market, and hence maximising profit.<br><br>
-**2) <ins>Product Tracking</ins>:**
-Blockchain can be used to track the movement of goods, traceability of products, increased transparency and enhanced security.<br><br>
-**3) <ins>A MarketPlace</ins>:**
-We also connect ventures with the wholesale sellers and create a marketplace to make the supply chain process more smooth and accessible.<br><br>
+We are building a software which is based on  Blockchain  and decentralizes the whole   supply chain system distributing the information to all parties in supply chain   establishing :
+Efficient 
+Transparent 
+Secure 
+TruthFull Supply Chain in Todays Time
+
+We are storing product information on the blockchain, ensuring immutability. Additionally, cryptographic QR codes are installed at all warehousing stations within the supply chain. These codes need to be scanned to automatically update the product's information on the blockchain. This process includes automatic location fetching and storing, along with date and timestamps.
+<br><br>
 
 
 Command to run:-
