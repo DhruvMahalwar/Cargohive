@@ -1,7 +1,6 @@
 # Supply-Chain-Project
 <h3>Customer Pannel Repo : https://github.com/DhruvMahalwar/CargoHive-Web3-Customer</h3>
 <h3>WareHouse Repo : https://github.com/DhruvMahalwar/Cargohive-Center</h3>
-<h3>Cryptographic Qr and Demo: https://drive.google.com/drive/folders/1vYVhciYd140FnMuDHUKL3hs62tKC7tKW?usp=sharing</h3>
 
 <b><h3>Introduction</h3></b>
 We are using innovative technologies to improve the efficiency and transparency of supply chain management, which can benefit businesses by helping them better serve their customers and stakeholders.
@@ -31,3 +30,8 @@ Command to run:-
 Firtly download node module
 npm install --legacy-peer-deps
 then go to package.json and debug.
+
+
+<h3>Cryptographic Qr : https://drive.google.com/file/d/1pJi2uUShOxG4jdrlqdYQrGi5T9jAT2Hr/view</h3>
+<h3>Demo: https://drive.google.com/file/d/1xVoSc7dRtYidA1PbM7KRSP7HFp01YmQt/view</h3>
+<h3>Documentation: https://drive.google.com/file/d/1x1L0TtgC1hzUMwz4VjvBH_MbyyKsTwEU/view</h3>
