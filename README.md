@@ -1,6 +1,6 @@
 # Supply-Chain-Project
-<h1>Customer Pannel Repo : https://github.com/DhruvMahalwar/CargoHive-Web3-Customer</h1>
-<h1>WareHouse Repo : [https://github.com/DhruvMahalwar/CargoHive-Web3-Customer](https://github.com/DhruvMahalwar/Cargohive-Center)</h1>
+<h3>Customer Pannel Repo : https://github.com/DhruvMahalwar/CargoHive-Web3-Customer</h3>
+<h3>WareHouse Repo : [https://github.com/DhruvMahalwar/CargoHive-Web3-Customer](https://github.com/DhruvMahalwar/Cargohive-Center)</h3>
 
 <b><h3>Introduction</h3></b>
 We are using innovative technologies to improve the efficiency and transparency of supply chain management, which can benefit businesses by helping them better serve their customers and stakeholders.
