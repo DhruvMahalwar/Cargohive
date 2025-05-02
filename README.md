@@ -27,7 +27,7 @@ We are storing product information on the blockchain, ensuring immutability. Add
 
 
 Command to run:-
-Firtly download node module
+Download node module
 npm install --legacy-peer-deps
 then go to package.json and debug.
 
